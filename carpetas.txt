@@ -1,0 +1,9 @@
+1.bd : contiene las querys de la base de datos listas para ejecutar
+2. clases : contiene todas las clases de cada modulo, con sus respectivos metodos crud
+3. css :contiene los estilos para la aplicacion
+4. img :contiene las imagenes para la aplicacion que necesitamos 
+5 arc: hivos contiene los archivos de la aplicacion
+6 js contiene los scripts js para cada modulo para ejecutar las funciones de crud
+7 librerias : para la creacion de pdf, jquery,alertify, bootstrap y selectos.
+8 procesos : archivos intermedios entre clases y las vistas,estos mandan informacionn entre las capas.
+9 vistas: vistas de los modulos
